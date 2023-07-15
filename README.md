@@ -16,3 +16,4 @@ windows
     then you need to update `db_conn_str` variable in the code to match your local mysql setup;<br>
     if not, you can just comment out the code block resplonsible for saving the data tables to a local mysql database.
 7.  terminal: `jupyter lab`
+8.  browser: `http://localhost:8888/lab`
